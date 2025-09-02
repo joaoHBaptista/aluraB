@@ -92,7 +92,8 @@
         font-weight: 700;
     }
     .opções{
-        display:flex
+        display:flex;
+        margin-right: 5em;
     }
     .opções__item{
     padding: 0 1em;
@@ -156,4 +157,5 @@
         display: block;
     }
     }
+
     
